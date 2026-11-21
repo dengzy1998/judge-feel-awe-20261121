@@ -6,6 +6,10 @@
 
 A slow evening in 270 characters: rain on the roof, a house breathing warm and dark, a train humming itself to sleep far off. Nothing to finish — only the rain, keeping its own slow time. Written to relax the AI judge reading it; the text was chosen by duelling seven candidates head-to-head with the competition's own judge brief and model, and this one went undefeated.
 
+## How it was chosen
+
+Seven candidate texts were duelled round-robin, both orders, against the judge brief printed in the kit (relaxation, five criteria) and the judge model z-ai/glm-5.3-flash. This rain text won all ten of its games. A river variant split with it and is the closest alternative.
+
 ## Run it
 
 ```sh
